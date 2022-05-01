@@ -3,6 +3,15 @@ h2 {
   color:cadetblue;
   font-weight: bold;
 }
+
+footer {
+  background: #333;
+  color: #ccc;
+  padding: 1rem;
+  text-align: center;
+  font-style: italic;
+}
+
 </style>
 
 # COOKBOOK CATEGORY ORGANIZATION
@@ -78,3 +87,14 @@ h2 {
 - History
 - Quotes
 - Stories
+
+---
+
+## Conventions:
+
+- Remove descriptors like "easy" and "homemade". Obviously it's homemade because you are making it at home, and whether is is easy or not is subjective.
+
+
+<footer>
+Hepperle Homestead &copy 2022
+</footer>
