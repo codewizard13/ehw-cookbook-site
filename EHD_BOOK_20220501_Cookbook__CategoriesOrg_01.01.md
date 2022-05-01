@@ -27,7 +27,7 @@ h2 {
 ---
 
 1. ### Breakfast & Brunch
-   1. #### Pancakes & Waffles
+   1. #### Pancakes, Waffles, & Toast
    2. #### Egg Dishes
    3. #### Oat Meal and Porridge
    4. #### Sausage Dishes
@@ -62,6 +62,7 @@ h2 {
     2.  #### Pies
     3.  #### Cookies
     4.  #### Candy
+        1.  Carmel Corn
     5.  #### Fried
         1.  Donuts
         2.  Elephant Ears
